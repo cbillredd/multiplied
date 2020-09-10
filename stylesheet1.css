@@ -10,8 +10,11 @@ h4 {
 }
 
 button {
-  font-size: 10px;
-  width: 85px;
+  font-size: 11px;
+  width: 90px;
+  background-color: #0000ff;
+  color: white;
+
 }
 input {
   width: 45px;
@@ -25,6 +28,7 @@ input {
   border-width: thin;
   border-style: solid;
   border-color: black;
+  background-color: #85a3e0;
 }
 .box1 {
   background: white;
